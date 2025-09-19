@@ -1,0 +1,11 @@
+Age,Gender,Fare,Embarked,Siblings_Spouses
+25,Male,15.5,S,1
+30,Female,22.0,C,0
+,Male,18.2,S,1
+45,Female,50.0,Q,2
+33,Male,12.0,S,0
+22,Female,8.5,C,0
+50,Male,35.0,S,1
+60,Male,48.0,S,1
+,Female,20.0,,0
+29,Male,19.5,S,0
